@@ -1,0 +1,37 @@
+# Gradle / Java build
+.gradle/
+build/
+out/
+classes/
+*.class
+
+# Fabric runtime
+run/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash / profiling / logs
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+*.log
+
+# Local env
+.env
+.env.*
+*.local
